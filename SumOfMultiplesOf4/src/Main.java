@@ -18,5 +18,4 @@ public class Main {
 		System.out.println("Sum of the numbers that are multiples of 4 : " + sum);
 		input.close();
 	}
-
 }
